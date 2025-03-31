@@ -3,11 +3,7 @@
 
 # 🚀 AI-Powered Code Reviewer 🤖  
 
-### **An Intelligent Code Review Assistant for Developers!** 
-
-[![GitHub stars](https://img.shields.io/github/stars/AbhishekShrivastav73/AI-powered-code-reviewer?style=for-the-badge)](https://github.com/AbhishekShrivastav73/AI-powered-code-reviewer/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/AbhishekShrivastav73/AI-powered-code-reviewer?style=for-the-badge)](https://github.com/AbhishekShrivastav73/AI-powered-code-reviewer/network)  
-[![GitHub license](https://img.shields.io/github/license/AbhishekShrivastav73/AI-powered-code-reviewer?style=for-the-badge)](https://github.com/AbhishekShrivastav73/AI-powered-code-reviewer/blob/main/LICENSE)  
+### **An Intelligent Code Review Assistant for Developers!**   
 
 ## ⚡ **Overview**  
 AI-Powered Code Reviewer is an **intelligent assistant** that helps developers write **cleaner, optimized, and more secure code** by providing **detailed feedback, best practices, and performance improvements** 🚀  
@@ -41,7 +37,7 @@ AI-Powered Code Reviewer is an **intelligent assistant** that helps developers w
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/AbhishekShrivastav73/AI-powered-code-reviewer.git
+https://github.com/sidgureja7803/CODE-REVIEW.git
 cd repo-name
 ```
 
@@ -94,8 +90,8 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🤝 **Connect with Me!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sidgureja)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/sidgureja)  
 
 ---
 
