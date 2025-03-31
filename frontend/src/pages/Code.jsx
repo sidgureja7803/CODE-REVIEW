@@ -19,7 +19,7 @@ function fetchData() {
   const [review, setreview] = useState("");
   const ReviewCode = async () => {
     try {
-      let response = await axios.post(`http://localhost:3000/ai/get-response`, {
+      let response = await axios.post(`https://code-review-jlmr.onrender.com`, {
         code,
       });
       console.log(response.data);
