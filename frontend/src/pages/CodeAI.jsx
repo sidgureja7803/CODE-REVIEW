@@ -21,7 +21,7 @@ function CodeAI() {
     setDisplay(true);
     try {
       let res = await axios.post(
-        `https://ai-powered-code-reviewer-i325.onrender.com/ai/get-response`,
+        `https://code-review-jlmr.onrender.com`,
         {
           code,
         }
@@ -42,7 +42,7 @@ function CodeAI() {
     const startWebsite = async () => {
       try {
         let response = await axios.get(
-          `https://ai-powered-code-reviewer-i325.onrender.com/`
+          `https://code-review-jlmr.onrender.com`
         );
         console.log(response.data);
         if (response.data.status === "ok") {
